@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\MethodsExersize\02.CenterPoint\bin\Debug\netcoreapp3.1\02.CenterPoint.exe
+C:\Users\user\source\repos\MethodsExersize\02.CenterPoint\bin\Debug\netcoreapp3.1\02.CenterPoint.deps.json
+C:\Users\user\source\repos\MethodsExersize\02.CenterPoint\bin\Debug\netcoreapp3.1\02.CenterPoint.runtimeconfig.json
+C:\Users\user\source\repos\MethodsExersize\02.CenterPoint\bin\Debug\netcoreapp3.1\02.CenterPoint.runtimeconfig.dev.json
+C:\Users\user\source\repos\MethodsExersize\02.CenterPoint\bin\Debug\netcoreapp3.1\02.CenterPoint.dll
+C:\Users\user\source\repos\MethodsExersize\02.CenterPoint\bin\Debug\netcoreapp3.1\02.CenterPoint.pdb
+C:\Users\user\source\repos\MethodsExersize\02.CenterPoint\obj\Debug\netcoreapp3.1\02.CenterPoint.csprojAssemblyReference.cache
+C:\Users\user\source\repos\MethodsExersize\02.CenterPoint\obj\Debug\netcoreapp3.1\02.CenterPoint.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\MethodsExersize\02.CenterPoint\obj\Debug\netcoreapp3.1\02.CenterPoint.AssemblyInfo.cs
+C:\Users\user\source\repos\MethodsExersize\02.CenterPoint\obj\Debug\netcoreapp3.1\02.CenterPoint.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\MethodsExersize\02.CenterPoint\obj\Debug\netcoreapp3.1\02.CenterPoint.dll
+C:\Users\user\source\repos\MethodsExersize\02.CenterPoint\obj\Debug\netcoreapp3.1\02.CenterPoint.pdb
+C:\Users\user\source\repos\MethodsExersize\02.CenterPoint\obj\Debug\netcoreapp3.1\02.CenterPoint.genruntimeconfig.cache

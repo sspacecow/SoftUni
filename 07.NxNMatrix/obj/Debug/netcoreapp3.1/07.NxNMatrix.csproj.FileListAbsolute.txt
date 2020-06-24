@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\MethodsExersize\07.NxNMatrix\bin\Debug\netcoreapp3.1\07.NxNMatrix.exe
+C:\Users\user\source\repos\MethodsExersize\07.NxNMatrix\bin\Debug\netcoreapp3.1\07.NxNMatrix.deps.json
+C:\Users\user\source\repos\MethodsExersize\07.NxNMatrix\bin\Debug\netcoreapp3.1\07.NxNMatrix.runtimeconfig.json
+C:\Users\user\source\repos\MethodsExersize\07.NxNMatrix\bin\Debug\netcoreapp3.1\07.NxNMatrix.runtimeconfig.dev.json
+C:\Users\user\source\repos\MethodsExersize\07.NxNMatrix\bin\Debug\netcoreapp3.1\07.NxNMatrix.dll
+C:\Users\user\source\repos\MethodsExersize\07.NxNMatrix\bin\Debug\netcoreapp3.1\07.NxNMatrix.pdb
+C:\Users\user\source\repos\MethodsExersize\07.NxNMatrix\obj\Debug\netcoreapp3.1\07.NxNMatrix.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\MethodsExersize\07.NxNMatrix\obj\Debug\netcoreapp3.1\07.NxNMatrix.AssemblyInfo.cs
+C:\Users\user\source\repos\MethodsExersize\07.NxNMatrix\obj\Debug\netcoreapp3.1\07.NxNMatrix.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\MethodsExersize\07.NxNMatrix\obj\Debug\netcoreapp3.1\07.NxNMatrix.dll
+C:\Users\user\source\repos\MethodsExersize\07.NxNMatrix\obj\Debug\netcoreapp3.1\07.NxNMatrix.pdb
+C:\Users\user\source\repos\MethodsExersize\07.NxNMatrix\obj\Debug\netcoreapp3.1\07.NxNMatrix.genruntimeconfig.cache
